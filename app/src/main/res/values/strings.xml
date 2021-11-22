@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VasuIntern</string>
+    <string name="main">Main</string>
+    <string name="trending">Trending</string>
+    <string name="explore">Explore</string>
+    <string name="feed">Feed</string>
+    <string name="your_story">Your Story</string>
+    <string name="discover_creators">Discover Creators</string>
+    <string name="jonas_noah">jonas.noah</string>
+    <string name="tweetasm">tweetasm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ganesh_ji">Ganesh JI</string>
+    <string name="vishnu_ji">Vishnu Ji</string>
+    <string name="shiv_ji">Shiv Ji</string>
+</resources>
